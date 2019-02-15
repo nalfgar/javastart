@@ -1,4 +1,4 @@
-package helloWorld;
+package dataType;
 
 public class DataTypes {
 
