@@ -24,7 +24,5 @@ public class DataTypes {
         System.out.print("Silnik o pojemności:");
         System.out.println("2,2");
 
-
-
     }
 }
