@@ -16,6 +16,14 @@ public class DataTypes {
         System.out.print("Bool:");
         System.out.println(true);
 
+        System.out.println();
+
+        System.out.println("Mam Audi A4");
+        System.out.print("Rocznik:");
+        System.out.println(2004);
+        System.out.print("Silnik o pojemności:");
+        System.out.println("2,2");
+
 
 
     }
