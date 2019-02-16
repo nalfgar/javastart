@@ -13,6 +13,8 @@ public class Employee {
         this.seniority = seniority;
     }
 
+    public Employee(){}
+
     public String getName() {
         return name;
     }
