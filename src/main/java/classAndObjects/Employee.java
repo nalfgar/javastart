@@ -15,6 +15,11 @@ public class Employee {
 
     public Employee(){}
 
+
+    public String returnNull(){
+        return null;
+    }
+
     public String getName() {
         return name;
     }

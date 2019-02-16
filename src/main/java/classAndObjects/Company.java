@@ -10,5 +10,6 @@ public class Company {
         System.out.println(employee1);
         System.out.println(employee2);
         System.out.println(employee3);
+        System.out.println(employee1.returnNull());
     }
 }
